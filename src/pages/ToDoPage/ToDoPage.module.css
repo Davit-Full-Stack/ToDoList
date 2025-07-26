@@ -1,0 +1,12 @@
+.AddTask{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    Button{
+        margin-top: 40px;
+    }
+}
+
+.CardsWrapper{
+    margin-top: 60px;
+}
